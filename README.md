@@ -3,7 +3,7 @@ Projeto de extensão da *Oficinas de Leitura e Produção de Textos: Construindo
 
 O projeto consiste em um jogo voltado a disciplina de português em escolas públicas. Foram utilizadas uma placa *Arduino Mega* e uma tela TFT com função *touch screen* para o desenvolvimento do projeto.
 
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="./imagens/Placa_Arduino_Mega.jpeg" width="500" height="257" align="center">
+<p align="center"><img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="./imagens/Placa_Arduino_Mega.jpeg" width="500" height="257"></p>
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="./imagens/Tela_TFT_Parte_Anterior.jpeg" width="500" height="376" align="center">
 
