@@ -25,7 +25,7 @@ Escolhendo o exercício de estudo da vírgula, o aluno também pode escolher um 
 
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="./imagens/Tela_escolha_de_nivel_Virgulas.jpeg" width="500" height="364">
 
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="file:///C:/workspace/GramaticBo/imagens/Exercicio_Virgula.jpeg" width="500" height="297">
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="./imagens/Exercicio_Virgula.jpeg" width="500" height="297">
 
 Nos exercícios de vírgula dois termos são destacados, um em rosa e outro em azul, e o aluno deve dizer se deve ou não ter uma vírgula entre os dois termos.
 
